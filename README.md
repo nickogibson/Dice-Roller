@@ -3,7 +3,7 @@ A d20 Dice Roller with player save functions.<br>
 Try it live at https://nickogibson.github.io/apps/
 <br><br>
 The sounds have their own licence.<br>
-d20 Tools uses the following assets:<br><br>
+Dice Roller uses the following assets:<br><br>
 
 Diceroll.wav Mike Koenig attribution CC 3.0<br>
 soundbible.com Shake-And-Roll-Dice
