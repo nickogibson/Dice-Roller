@@ -1,6 +1,6 @@
 # Dice-Roller
 A d20 Dice Roller with player save functions.<br>
-Try it live at https://nickogibson.github.io/apps/
+Try it live at https://nickogibson.github.io/Dice-Roller
 <br><br>
 The sounds have their own licence.<br>
 Dice Roller uses the following assets:<br><br>
